@@ -153,7 +153,7 @@ plt.imshow(img_28_gray_inverted_scaled1.reshape(28,28),cmap='gray')
 
 ### Confusion Matrix
 
-<img width="533" height="306" alt="image" src="https://github.com/user-attachments/assets/260c42e2-ca07-4b64-988b-a08c83bc05f0" />
+<img width="494" height="233" alt="image" src="https://github.com/user-attachments/assets/01f7d569-7775-4c1d-9675-75384fd37dc9" />
 
 ### Classification Report
 
